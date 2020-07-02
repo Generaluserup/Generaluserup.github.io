@@ -1,2 +1,2 @@
 # Generaluserup.github.io
-show all
+show all pls
