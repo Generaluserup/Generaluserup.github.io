@@ -54,7 +54,7 @@ nav{
     width: 400px;
 }
     .topnav{background-color:#000; font-size: 10px;}
-.topnav a{color: black; text-align: center; padding: 14px 16px;  color: white; }
+.topnav a{color: black; text-align: center;  padding: 14px 16px;  color: white; }
 .topnav a:hover{
     border-bottom: 2px solid white;
 }
