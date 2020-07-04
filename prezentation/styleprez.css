@@ -24,10 +24,7 @@ hr{
     height: 1rem;	
     position: absolute;	    		
 }
-iframe{
-    width: 100%;
-    height:100%;
-} 
+
 .home1 a img {
 	border: none;		
 	margin: 0px;			
