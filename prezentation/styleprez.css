@@ -20,16 +20,13 @@ hr{
 
 }
 .home1 img {
-    border: none;
-    padding: -2rem;
-    width: 1.5rem;  
-    height: 1.5rem;	
+    width: 1rem;  
+    height: 1rem;	
     position: absolute;	    		
 }
 iframe{
-    width: max-content;
-    height:max-content;
-    scroll-snap-align: none;
+    width: 100%;
+    height:100%;
 } 
 .home1 a img {
 	border: none;		
@@ -47,7 +44,7 @@ iframe{
 .topnav a{
     color: black; 
     text-align: center; 
-    padding: 14px 16px; font-size: 15px;
+    padding: 14px 16px;
      color: white; 
     }
 .topnav a:hover{
