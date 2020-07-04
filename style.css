@@ -21,12 +21,8 @@ hr{
 
 }
 .home1 img {
-    border: none;
-    padding: -2rem;
-    width: 1.5rem;  
-    height: 1.5rem;	
-    position: absolute;	    		
-}
+    height: 1rem;
+    position: absolute;
  
 .home1 a img {
 	border: none;		
@@ -54,7 +50,8 @@ nav{
     width: 400px;
 }
     .topnav{background-color:#000; font-size: 10px;}
-.topnav a{color: black; text-align: center; padding: 14px 16px; font-size: 15px; color: white; }
+.topnav a{text-align: center;
+    padding: 14px 16px; }
 .topnav a:hover{
     border-bottom: 2px solid white;
 }
