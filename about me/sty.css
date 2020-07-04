@@ -53,7 +53,8 @@ div.text > * {
 	font: bold 1.4rem Helvetica, Sans-Serif;
 }
 .graficlogo{
-	    display: block;
+        display: block;
+        max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
@@ -65,7 +66,7 @@ div.text > * {
 }
 .home1 img {
     width: 1rem;  
-    height: 1rem;	
+    height: 1.2rem;	
     position: absolute;	    		
 }
  
@@ -80,11 +81,10 @@ div.text > * {
     .topnav{
         text-align: center;
         background-color:#000; 
-        font-size: 10px;
         }
 .topnav a{
     text-align: center; 
-    padding: 14px 16px; 
+    padding: 18px 20px; 
     }
 .topnav a:hover{
     border-bottom: 2px solid white;

@@ -21,7 +21,7 @@ hr{
 }
 .home1 img {
     width: 1rem;  
-    height: 1rem;	
+    height: 1.2rem;	
     position: absolute;	    		
 }
 .home1 a img {
@@ -35,12 +35,11 @@ hr{
     .topnav{
         text-align: center;
         background-color:#000; 
-        font-size: 10px;
         }
 .topnav a{
     color: black; 
     text-align: center; 
-    padding: 14px 16px;
+    padding: 18px 20px;
      color: white; 
     }
 .topnav a:hover{
@@ -75,6 +74,12 @@ hr{
         display: block;
         text-align: left;
     }
+}
+iframe{
+    max-width: 100%;
+    width: 94.6rem;
+    height: 40rem;
+    max-height:100% ;
 }
 .info h1{
     background: rgb(0, 0, 0);
