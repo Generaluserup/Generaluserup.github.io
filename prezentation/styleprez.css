@@ -26,7 +26,11 @@ hr{
     height: 1.5rem;	
     position: absolute;	    		
 }
- 
+iframe{
+    width: max-content;
+    height:max-content;
+    scroll-snap-align: none;
+} 
 .home1 a img {
 	border: none;		
 	margin: 0px;			
