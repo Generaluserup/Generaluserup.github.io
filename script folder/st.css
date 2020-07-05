@@ -40,9 +40,7 @@ text-align: center;
 padding: 18px 20px;
  color: white; 
 }
-.topnav a:hover{
-border-bottom: 2px solid white;
-}
+
 .topnav .icon{display: none;}
 @media screen and (max-width: 768px) {
 .topnav a:not(:first-child) {
