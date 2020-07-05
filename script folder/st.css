@@ -123,7 +123,7 @@ a{
  a:hover{
      color: gray;
  }
-footer p {
+ footer p {
     font-size: 2em;
     width: 70%;
     height: inherit;
@@ -132,16 +132,17 @@ footer p {
     color: #ffffff;
 }
  
-div.systems {
-    display: flex;
+div.systems > img {
+    display: inline-flex;
     width: 100%;
+    height: 1rem;
+    padding: 1rem 1rem 1rem 1rem;
     margin-top: 2rem;
     justify-content: center;
 }
 div.systems > a {
-	margin: 1rem 7rem;
+	margin: 1rem 5.5rem;
 }
- 
 footer address {
     padding-left: 2%;
     background-color: #000;
@@ -151,11 +152,16 @@ footer address {
     float: right;
    
 }
- 
+ footer.systems > img.windows.android.ios{
+    max-width: 100%;
+    width: 3rem;
+    height: auto;
+ }
 footer span {
     display:inline-block; 
     width:100%; 
-   
+    max-width: 100%;
+    height: 4rem;
 }
 footer.hr{
 	background-color: white;
