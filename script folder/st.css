@@ -97,6 +97,7 @@ div.scriptdown{
 }
 .imgcenter{
     display: block;
+    max-width: 100%;
 }
 header h1{
     background-color: #000000;
